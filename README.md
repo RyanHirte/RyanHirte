@@ -10,6 +10,9 @@
 
 ### Currently Learning
 - More about HTML, CSS, JS, and web development
+- Astro
+- Tailwind
+- DaisyUI
 - Backend development
 <!--
 **RyanHirte/RyanHirte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
